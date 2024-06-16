@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Test #2: Changing the code in test branch
+          Testing Ivan Branch
         </p>
         <a
           className="App-link"
